@@ -1,0 +1,48 @@
+/* 
+dark green= #055902
+Dark red= #590302
+Dark purple= #520259
+
+*/
+
+body{padding: 0 24px 36px 24px;}
+
+h1, h2, h3 {
+	color:#055902;
+}
+
+a { 
+color: #AE3E7B;
+font-wight:bold;
+}
+
+a:hover{
+	color: #2D9929;
+}
+
+h2 {
+	text-align: center;
+}
+
+p.picture {
+	text-align: center;
+}
+
+p, li, table {
+	font-size: 1.2em;
+}
+
+
+th, td {
+	/*border-color: #448AA6;
+	border-style: solid;
+	border-width: 3px;*/
+	border: #520259 solid 4px;
+	padding: 8px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
